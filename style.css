@@ -1,0 +1,68 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+h1{
+
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    margin-top: 20px;
+    text-shadow: black ;
+    
+   
+    
+   
+   
+   
+    
+}
+.card{
+    margin:0 auto;
+    text-align: center;
+    max-width: 350px;
+    box-shadow:0 10px 30px 0 black ;
+    margin-top: 25px;
+    height: 433px;
+    transition:0.6s;
+    font-size: 0;
+    border: 2px solid black;
+}
+.card:hover{
+ 
+    box-shadow:0 16px 32px 0 black ;
+
+}
+
+.cal-head input[type="text"]{
+
+
+    width: 345px;
+    height: 77px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 25px;
+    border:3px solid black;
+    padding: 0 -5px;
+    letter-spacing: 2px;
+    
+
+    
+
+}
+.btn{
+    width: 87px;
+    height: 70px;
+    font-weight: bold;
+    font-size:25px ;
+    background-color:black;
+    color:#FF5733;
+
+
+}
+.extr{
+
+    background-color: #2cdadc   ;
+    color: black;
+    
+}
